@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">3d875e23db0c9c10e72dd426ca9619cd</sp_column>
+        <sp_widget display_value="Login">6506d341cb33020000f8d856634c9cdc</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 17:56:32</sys_created_on>
+        <sys_id>608da85ddbd49050e72dd426ca9619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="medicine_store" source="x_462906_medicine">ab8802a7dbc89c10e72dd426ca9619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</sys_scope>
+        <sys_update_name>sp_instance_608da85ddbd49050e72dd426ca9619f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 17:56:32</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=608da85ddbd49050e72dd426ca9619f2"/>
+</record_update>

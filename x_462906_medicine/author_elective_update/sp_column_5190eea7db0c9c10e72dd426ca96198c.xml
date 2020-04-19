@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">5190eea7db0c9c10e72dd426ca96198a</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 15:49:56</sys_created_on>
+        <sys_id>5190eea7db0c9c10e72dd426ca96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="medicine_store" source="x_462906_medicine">ab8802a7dbc89c10e72dd426ca9619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</sys_scope>
+        <sys_update_name>sp_column_5190eea7db0c9c10e72dd426ca96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 15:49:56</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</application>
+        <file_path/>
+        <instance_id>c78eaf28db04af44536ad5b0cf9619e0</instance_id>
+        <instance_name>dev71173</instance_name>
+        <name>sp_column_5190eea7db0c9c10e72dd426ca96198c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">5190eea7db0c9c10e72dd426ca96198a</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-14 15:49:56</sys_created_on><sys_id>5190eea7db0c9c10e72dd426ca96198c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="medicine_store" source="x_462906_medicine">ab8802a7dbc89c10e72dd426ca9619a2</sys_package><sys_policy/><sys_scope display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</sys_scope><sys_update_name>sp_column_5190eea7db0c9c10e72dd426ca96198c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-14 15:49:56</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>517064495</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>eb8802a7dbc89c10e72dd426ca9619a4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 15:49:56</sys_created_on>
+        <sys_id>5990eea7db0c9c10e72dd426ca96198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1717961fa9b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 15:49:56</sys_updated_on>
+        <type>Column</type>
+        <update_guid>9190eea7410c9c10dfab95335e09798d</update_guid>
+        <update_guid_history>9190eea7410c9c10dfab95335e09798d:517064495</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">92f022e7db0c9c10e72dd426ca961988</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 15:51:39</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>23bf999e3ede4b3c8dc0666775e84290</sys_id>
+        <sys_metadata>5190eea7db0c9c10e72dd426ca96198c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="medicine_store" source="x_462906_medicine">ab8802a7dbc89c10e72dd426ca9619a2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</sys_scope>
+        <sys_scope_delete display_value="">45a07460dba4444ea2e715ba08751b84</sys_scope_delete>
+        <sys_update_name>sp_column_5190eea7db0c9c10e72dd426ca96198c</sys_update_name>
+        <sys_update_version display_value="sp_column_5190eea7db0c9c10e72dd426ca96198c">5990eea7db0c9c10e72dd426ca96198d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 15:51:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

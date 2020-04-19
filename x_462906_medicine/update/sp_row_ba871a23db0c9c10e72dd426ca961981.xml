@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Welcome_Page - Container 3">c1879223db0c9c10e72dd426ca961910</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 15:10:27</sys_created_on>
+        <sys_id>ba871a23db0c9c10e72dd426ca961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="medicine_store" source="x_462906_medicine">ab8802a7dbc89c10e72dd426ca9619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</sys_scope>
+        <sys_update_name>sp_row_ba871a23db0c9c10e72dd426ca961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 15:10:27</sys_updated_on>
+    </sp_row>
+</record_update>

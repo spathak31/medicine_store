@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function($scope) {
+  /* widget controller */
+  var c = this;
+	c.addItem=function()
+	{
+		c.server.update().then(function(response)
+													{
+			c.data={};
+		})
+	}
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>medicine_store_1</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>medicine_store_1</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+	if(!input)
+		return;
+	var gr=new GlideRecord('sys_user');
+	gr.initialize();
+
+	//gr.newdate=input.date;
+	gr.first_name=input.first_name;
+	gr.last_name=input.last_name;
+	gr.user_name=input.user_name;
+	gr.user_password=input.user_password;
+	gr.email=input.email;
+	gr.mobile_number=input.mobile_number;
+	gr.department=input.department;
+	gr.insert();
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 14:12:17</sys_created_on>
+        <sys_id>763ac2e7dbc89c10e72dd426ca961976</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>medicine_store_1</sys_name>
+        <sys_package display_value="medicine_store" source="x_462906_medicine">ab8802a7dbc89c10e72dd426ca9619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</sys_scope>
+        <sys_update_name>sp_widget_763ac2e7dbc89c10e72dd426ca961976</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 14:25:43</sys_updated_on>
+        <template><![CDATA[<div class="anel panel-default">
+   <div class="panel-body">
+          					
+            <div class = "form-group">
+              <label>First Name</label>
+             <input class="form-control" ng-model="c.data.first_name">
+     </div>
+     <div class = "form-group">
+              <label>Last Name</label>
+               <input class="form-control" ng-model="c.data.last_name">
+     </div>
+     <div class = "form-group">
+              <label>User ID</label>
+               <input class="form-control" ng-model="c.data.user_name">
+     </div>
+     <div class = "form-group">
+              <label>Password</label>
+               <input class="form-control" ng-model="c.data.user_password">
+     </div>
+     <div class = "form-group">
+              <label>Email</label>
+               <input class="form-control" ng-model="c.data.email">
+     </div>
+     <div class = "form-group">
+              <label>Phone</label>
+               <input class="form-control" ng-model="c.data.mobile_number">
+     </div>
+     
+     <div class = "form-group">
+              <label>Department</label>
+               <input class="form-control" ng-model="c.data.department">
+     </div>
+     
+     			 <div class ="form-group">
+            <input class="btn btn-primary btn-block" ng-click="c.addItem()" type="submit">
+     </div>
+  </div>
+</div>
+         
+ ]]></template>
+    </sp_widget>
+</record_update>

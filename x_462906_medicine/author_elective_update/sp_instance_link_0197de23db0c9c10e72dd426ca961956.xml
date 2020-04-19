@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>success</color>
+        <css/>
+        <glyph>user</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>For New User</short_description>
+        <size>md</size>
+        <sp_column display_value="2">3d875e23db0c9c10e72dd426ca9619cd</sp_column>
+        <sp_page display_value="reg_page1">8b281a23db0c9c10e72dd426ca961994</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 15:10:36</sys_created_on>
+        <sys_id>0197de23db0c9c10e72dd426ca961956</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Register</sys_name>
+        <sys_package display_value="medicine_store" source="x_462906_medicine">ab8802a7dbc89c10e72dd426ca9619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</sys_scope>
+        <sys_update_name>sp_instance_link_0197de23db0c9c10e72dd426ca961956</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 15:16:42</sys_updated_on>
+        <title>Register</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=0197de23db0c9c10e72dd426ca961956"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</application>
+        <file_path/>
+        <instance_id>c78eaf28db04af44536ad5b0cf9619e0</instance_id>
+        <instance_name>dev71173</instance_name>
+        <name>sp_instance_link_0197de23db0c9c10e72dd426ca961956</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;success&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;user&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;For New User&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;3d875e23db0c9c10e72dd426ca9619cd&lt;/sp_column&gt;&lt;sp_page display_value="reg_page1"&gt;8b281a23db0c9c10e72dd426ca961994&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-14 15:10:36&lt;/sys_created_on&gt;&lt;sys_id&gt;0197de23db0c9c10e72dd426ca961956&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Register&lt;/sys_name&gt;&lt;sys_package display_value="medicine_store" source="x_462906_medicine"&gt;ab8802a7dbc89c10e72dd426ca9619a2&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="medicine_store"&gt;ab8802a7dbc89c10e72dd426ca9619a2&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_0197de23db0c9c10e72dd426ca961956&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-14 15:16:42&lt;/sys_updated_on&gt;&lt;title&gt;Register&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0197de23db0c9c10e72dd426ca961956"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>805952987</payload_hash>
+        <record_name>Register</record_name>
+        <reverted_from/>
+        <source>eb8802a7dbc89c10e72dd426ca9619a4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 15:16:43</sys_created_on>
+        <sys_id>62f8d263db0c9c10e72dd426ca96190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17179438f8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 15:16:43</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>eaf8d263890c9c10c4dd282fe8598d0a</update_guid>
+        <update_guid_history>eaf8d263890c9c10c4dd282fe8598d0a:805952987,a1c7de236c0c9c107db0adbf142b8c5e:-1030121545,5d97de23600c9c107a96bb1ca6b42c57:836806122</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Register">c36d285ddbd49050e72dd426ca9619bd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 17:56:09</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>1d1d1a9cd5104015be0e2ceda3853221</sys_id>
+        <sys_metadata>0197de23db0c9c10e72dd426ca961956</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Register</sys_name>
+        <sys_package display_value="medicine_store" source="x_462906_medicine">ab8802a7dbc89c10e72dd426ca9619a2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="medicine_store">ab8802a7dbc89c10e72dd426ca9619a2</sys_scope>
+        <sys_scope_delete display_value="">45a07460dba4444ea2e715ba08751b84</sys_scope_delete>
+        <sys_update_name>sp_instance_link_0197de23db0c9c10e72dd426ca961956</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_0197de23db0c9c10e72dd426ca961956">62f8d263db0c9c10e72dd426ca96190b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 17:56:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
